@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuContextual20232024</string>
+    <string name="enunciado">Realiza una pulsacion larga sobre el EditText</string>
+    <string name="text_oficio">Oficio</string>
+</resources>

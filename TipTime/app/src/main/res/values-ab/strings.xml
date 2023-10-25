@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service">Costo</string>
+</resources>
